@@ -1,0 +1,5 @@
+id	text	familiarité	agréabilité	utilité	légitimité
+0	Ceci est un premier exemple	[0.0, 1.0, 0.0]	[0.0, 1.0, 0.0]	[0.0, 1.0, 0.0]	[0.0, 1.0, 0.0]
+1	Ceci est un deuxième exemple	[0.0, 1.0, 0.0]	[0.0, 1.0, 0.0]	[0.0, 1.0, 0.0]	[0.0, 1.0, 0.0]
+4	Ceci est un cinquième exemple	[0.0, 1.0, 0.0]	[0.0, 1.0, 0.0]	[0.0, 1.0, 0.0]	[0.0, 1.0, 0.0]
+5	Ceci est un sixième exemple	[0.0, 1.0, 0.0]	[0.0, 1.0, 0.0]	[0.0, 1.0, 0.0]	[0.0, 1.0, 0.0]
